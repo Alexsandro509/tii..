@@ -1,0 +1,28 @@
+.box{
+    width: 400px;
+    height:270px ;
+    
+
+
+    background-color:#f5f2d0 ;
+    position: relative;
+    left: 0px;
+    top:53px;
+    right: 170%;
+    color:black;
+    border-radius: 9px;
+}
+.item2{
+    width: 400px;
+    height:25px ;
+    
+
+
+    background-color:#f5f2d0 ;
+    position: relative;
+    left: 0px;
+    top:0px;
+    right: 170%;
+    color:black;
+    border-radius: 9px;
+}
