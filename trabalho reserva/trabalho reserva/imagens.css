@@ -1,0 +1,39 @@
+body{
+    padding:0;
+    margin:0;
+
+}
+.img{
+        height: 400px;
+        left: 150px;
+        width: 300px;
+
+    }
+  
+
+
+.img{
+    height: 400px;
+    width: 300px;
+    right:160px;
+    
+}
+
+.grid-container{
+    display: inline-block;
+    grid-template-columns: 'caixa1 caixa 2';
+    gap:60px;
+    width: auto;
+    line-height: 50px;
+    
+}
+.caixa{
+    border: 2px solid;
+    padding: 2px;
+    border-radius: 20px;
+    width: 275px;
+    height: 490px;
+    text-align: center;
+    display: inline-block;
+    margin: 7px;
+}   
