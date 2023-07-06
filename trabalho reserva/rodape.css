@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    footer{
+           
+            clear: both;
+            width: 700px;
+            position: absolute;
+            margin: 0 auto;
+            font-size: 0.75em;
+            text-align: center;
+            background-color: #ECECEC;
+            padding: 5px;
+            top: 175%;
+            left: 25%;
+    
+    }
